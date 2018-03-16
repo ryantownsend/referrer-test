@@ -1,5 +1,6 @@
 /*
   Cache-Control: private, max-age=0, must-revalidate
+  Referrer-Policy: no-referrer-when-downgrade
 
 /blocked.html
   Referrer-Policy: no-referrer
