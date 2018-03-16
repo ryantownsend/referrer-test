@@ -1,2 +1,5 @@
+/*
+  Cache-Control: private, max-age=0, must-revalidate
+
 /blocked.html
   Referrer-Policy: no-referrer
